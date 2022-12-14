@@ -1,0 +1,26 @@
+.nav {
+    border: 2px solid red; 
+    display: flex;
+    justify-content: center;
+}
+
+.element {
+    border: 2px solid blue;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.cajaInf {
+    border: 2px  solid black;
+    display: flex;
+    align-items: center;
+}
+.caja1 {
+    border: solid 2px orange;
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+}
+
